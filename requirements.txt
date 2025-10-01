@@ -5,3 +5,4 @@ Pillow
 scikit-learn
 matplotlib
 seaborn
+opencv-python-headless
