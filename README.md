@@ -22,6 +22,11 @@ retinal_disease_classifier/
 
 ---
 
+## 🔮 Application
+
+https://iris-disease-detection-nu8e6v2emnemzj2gxdurvc.streamlit.app/
+
+
 ## 🚀 Quick Start
 
 ### 1. Install dependencies
