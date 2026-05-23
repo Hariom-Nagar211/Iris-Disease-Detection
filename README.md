@@ -1,4 +1,4 @@
-# 👁️ Retinal Disease Classifier
+# 👁️ Iris Disease Classifier
 
 AI-powered retinal fundus image analysis using **EfficientNetB0** (Transfer Learning) with **Grad-CAM** visualisation, built with Streamlit.
 
